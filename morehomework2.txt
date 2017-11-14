@@ -1,0 +1,55 @@
+Lesson 35,
+
+1. Question 1
+procedure words(word:string, n:int)
+	for i: 1..n
+		put word, " "
+	end for
+end words
+
+const WORD:= "red"
+const NUMBER:= 13
+
+words(WORD, NUMBER)
+
+
+
+2. Question 2
+a)
+procedure stars(line_number : int)
+	for i : 1 .. line_number
+		put "*****"
+	end for
+end stars
+
+stars(7)
+
+
+b)
+procedure stars(line_number : int)
+	for i : 1 .. line_number
+		put "*****"
+	end for
+end stars
+
+var user_input: int
+get: user_input*
+stars(user_input)
+
+
+
+3. Question 3    ???
+procedure slant(rows:int)
+	for i: 1..rows
+		put (" " * (rows-1)), "*" * rows
+end slant
+
+var rows:int
+get rows
+slant(rows)
+
+CHALLENGE
+function aa(word:string):string
+	if  index
+end aa
+
