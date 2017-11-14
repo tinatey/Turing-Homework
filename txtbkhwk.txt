@@ -1,0 +1,42 @@
+% Question 1
+function circleArea(r:real):real
+	result r**2*3.14
+end circleArea
+
+var radius: real
+put "Enter a radius length: " ..
+get radius
+put "The area of the circle with radius ", radius, " is ", circleArea(radius), "."
+
+
+% Question 2
+% simple interest formula: A = P(1 + rt) where P is the Principal amount of money 
+% to be invested at an Interest Rate r% per period for t Number of Time Periods.
+
+function interest(P, r, t:real):real
+	result P(1 + rt)
+end interest
+
+var principal, interest_rate, numb_time_periods: real
+
+put "Enter and amount: $" ..
+get principal
+put "Enter a number of time periods: " ..
+get numb_time_periods
+put "Enter an interest rate: " ..
+get interest_rate
+put "Your interest is ", interest(principal, interest_rate, numb_time_periods), "."
+
+
+% Question 8
+
+function midLetter(word:string):char
+	if word mod 2 = 0 then
+		put word((*/2)+1)
+	else
+		put word(*/2)
+	end if
+end midLetter
+
+var word: string
+get word

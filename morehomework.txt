@@ -1,0 +1,69 @@
+1. Question 1
+function startswithS(word:string):boolean
+	if word(1) = "s" or word(1) = "S" then
+		result true
+	else
+		result false
+	end if
+end startswithS
+
+var word: string
+
+put "Please enter a word: " ..
+get word:*
+put startswithS(word)
+
+
+
+2. Question 2
+function multipleof7(number:int): boolean
+	if number mod 7 = 0 then
+		result true
+	else
+		result false
+	end if
+end multipleof7
+
+var number: int:= 13
+put multipleof7(number)
+
+
+
+3. Question 3
+function reverse(word:string):string
+	for i : length(word)..1
+		result word += word(i)
+	end for
+end reverse
+function palindrome(word:string): boolean
+	if word = reverse(word) then
+		result true
+	else
+		result false
+	end if
+
+var word: string
+get word:*
+
+put palindrome(reverse(word))
+
+
+
+4. Question 4
+function double(number:int):int
+	result number += number
+end double
+
+var number: int
+get number
+
+loop 
+	number:= double(number)
+	put number
+	exit when number>1000
+end loop
+
+
+
+5. Question 5
+function glue()
