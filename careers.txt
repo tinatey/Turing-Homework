@@ -1,0 +1,38 @@
+1. typical job descriptions
+	A web designer develops and creates websites and associated applications.
+	A web designer creates the look, layout, and features of a website. The 
+	job involves understanding both graphic design and computer programming.
+	Once a website is created, a designer helps with maintenance and additions
+	to the website. They work with development teams or managers for keeping
+	the site up-to-date and prioritizing needs, among other tasks.
+
+2. typical job titles
+
+3. typical job duties
+	A web designer's job duties cover all aspects of creating a website.
+	Upon meeting with clients and assessing their needs, web designers 
+	help create and maintain the product. Their duties include, but
+	aren't limited to, the following:
+	~ Writing and editing content
+	~ Designing webpage layout
+	~ Determining technical requirements
+	~ Updating websites
+	~ Creating back up files
+	~ Solving code problems
+
+4. types of employers (private, public, non-profit, academic, etc)
+
+5. examples of employers (in a variety of sectors, if possible)
+
+6. typical offered wages
+
+7. market median wage:
+	Median Annual Salary (2015) - $64,970 (for web developers)
+
+8. market outlook:
+	Job Outlook (2014-2024) - 27% growth
+
+9. market education & job requirements
+	Key skills - Computer programming and graphic design;
+	computer proficiency; ability to work on a team
+	Associate degree; bachelor's preferred
