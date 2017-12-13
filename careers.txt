@@ -24,7 +24,7 @@
 
 5. examples of employers (in a variety of sectors, if possible)
 	Ocean Creation https://www.jobbank.gc.ca/jobsearch/jobposting/25368905
-	Hatem+D https://www.jobbank.gc.ca/jobsearch/jobposting/25221122, http://www.ic.gc.ca/app/ccc/srch/nvgt.do?	app=sold&searchNav=F&profileId=1921&prtl=1&profile=cmpltPrfl&estblmntNo=234567039422&lang=fra
+	Hatem+D https://www.jobbank.gc.ca/jobsearch/jobposting/25221122, http://www.ic.gc.ca/app/ccc/srch/nvgt.doapp=sold&searchNav=F&profileId=1921&prtl=1&profile=cmpltPrfl&estblmntNo=234567039422&lang=fra
 	
 6. typical offered wages
 	https://www.payscale.com/research/CA/Job=Web_Designer/Salary
